@@ -1,0 +1,14 @@
+﻿@model VentureSketch.Models.Qualification
+
+@{
+    int id = Model.Id;
+    <tr id="qualification_@id">
+        <td>@Html.DisplayFor(m => m.Id)</td>
+        <td>@Html.TextBoxFor(m => m.Rank)</td>
+        <td>@Html.TextBoxFor(m => m.Name)</td>
+        <td>@Html.TextAreaFor(m => m.Notes)</td>
+        <td>@Html.TextBoxFor(m => m.ActivityTypeId)</td>
+        <td>&nbsp;
+        </td>
+    </tr>    
+}

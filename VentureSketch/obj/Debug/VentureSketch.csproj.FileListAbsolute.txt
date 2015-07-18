@@ -1,0 +1,125 @@
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\VentureSketch.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\VentureSketch.pdb
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\AntiXssLibrary.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Antlr3.Runtime.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Autofac.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Autofac.Integration.Mvc.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Autofac.Integration.Mvc.Owin.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Autofac.Integration.Owin.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Elmah.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Elmah.Mvc.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Glimpse.AspNet.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Glimpse.Core.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Glimpse.Elmah.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Glimpse.Mvc5.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\HtmlSanitizationLibrary.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Microsoft.Owin.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Newtonsoft.Json.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\NWebsec.Core.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\NWebsec.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\NWebsec.Mvc.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Owin.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.Cors.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.Helpers.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.Mvc.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.Optimization.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.Razor.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.WebPages.Deployment.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.WebPages.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.WebPages.Razor.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\VentureSketch.Data.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\VentureSketch.Models.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\WebGrease.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Dapper.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\VentureSketch.Data.pdb
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\VentureSketch.Models.pdb
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\AntiXssLibrary.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Antlr3.Runtime.pdb
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Autofac.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Autofac.Integration.Mvc.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Autofac.Integration.Mvc.Owin.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Autofac.Integration.Owin.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\HtmlSanitizationLibrary.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Microsoft.Owin.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Newtonsoft.Json.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\NWebsec.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\NWebsec.Core.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\NWebsec.Mvc.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.Helpers.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.Mvc.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.Razor.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.WebPages.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.WebPages.Deployment.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.WebPages.Razor.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\System.Web.Optimization.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Dapper.pdb
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\bin\Dapper.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\obj\Debug\VentureSketch.csprojResolveAssemblyReference.cache
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\obj\Debug\VentureSketch.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch\obj\Debug\VentureSketch.pdb
+G:\Development\VentureSketch\VentureSketch\bin\VentureSketch.dll.config
+G:\Development\VentureSketch\VentureSketch\bin\VentureSketch.dll
+G:\Development\VentureSketch\VentureSketch\bin\VentureSketch.pdb
+G:\Development\VentureSketch\VentureSketch\bin\AntiXssLibrary.dll
+G:\Development\VentureSketch\VentureSketch\bin\Antlr3.Runtime.dll
+G:\Development\VentureSketch\VentureSketch\bin\Autofac.dll
+G:\Development\VentureSketch\VentureSketch\bin\Autofac.Integration.Mvc.dll
+G:\Development\VentureSketch\VentureSketch\bin\Autofac.Integration.Mvc.Owin.dll
+G:\Development\VentureSketch\VentureSketch\bin\Autofac.Integration.Owin.dll
+G:\Development\VentureSketch\VentureSketch\bin\Elmah.dll
+G:\Development\VentureSketch\VentureSketch\bin\Elmah.Mvc.dll
+G:\Development\VentureSketch\VentureSketch\bin\Glimpse.AspNet.dll
+G:\Development\VentureSketch\VentureSketch\bin\Glimpse.Core.dll
+G:\Development\VentureSketch\VentureSketch\bin\Glimpse.Elmah.dll
+G:\Development\VentureSketch\VentureSketch\bin\Glimpse.Mvc5.dll
+G:\Development\VentureSketch\VentureSketch\bin\HtmlSanitizationLibrary.dll
+G:\Development\VentureSketch\VentureSketch\bin\Microsoft.Owin.dll
+G:\Development\VentureSketch\VentureSketch\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Development\VentureSketch\VentureSketch\bin\Microsoft.Web.Infrastructure.dll
+G:\Development\VentureSketch\VentureSketch\bin\Newtonsoft.Json.dll
+G:\Development\VentureSketch\VentureSketch\bin\NWebsec.Core.dll
+G:\Development\VentureSketch\VentureSketch\bin\NWebsec.dll
+G:\Development\VentureSketch\VentureSketch\bin\NWebsec.Mvc.dll
+G:\Development\VentureSketch\VentureSketch\bin\Owin.dll
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.Cors.dll
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.Helpers.dll
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.Mvc.dll
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.Optimization.dll
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.Razor.dll
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.WebPages.Deployment.dll
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.WebPages.dll
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.WebPages.Razor.dll
+G:\Development\VentureSketch\VentureSketch\bin\VentureSketch.Data.dll
+G:\Development\VentureSketch\VentureSketch\bin\VentureSketch.Models.dll
+G:\Development\VentureSketch\VentureSketch\bin\WebGrease.dll
+G:\Development\VentureSketch\VentureSketch\bin\Dapper.dll
+G:\Development\VentureSketch\VentureSketch\bin\VentureSketch.Data.pdb
+G:\Development\VentureSketch\VentureSketch\bin\VentureSketch.Models.pdb
+G:\Development\VentureSketch\VentureSketch\bin\AntiXssLibrary.xml
+G:\Development\VentureSketch\VentureSketch\bin\Antlr3.Runtime.pdb
+G:\Development\VentureSketch\VentureSketch\bin\Autofac.xml
+G:\Development\VentureSketch\VentureSketch\bin\Autofac.Integration.Mvc.xml
+G:\Development\VentureSketch\VentureSketch\bin\Autofac.Integration.Mvc.Owin.xml
+G:\Development\VentureSketch\VentureSketch\bin\Autofac.Integration.Owin.xml
+G:\Development\VentureSketch\VentureSketch\bin\HtmlSanitizationLibrary.xml
+G:\Development\VentureSketch\VentureSketch\bin\Microsoft.Owin.xml
+G:\Development\VentureSketch\VentureSketch\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Development\VentureSketch\VentureSketch\bin\Newtonsoft.Json.xml
+G:\Development\VentureSketch\VentureSketch\bin\NWebsec.xml
+G:\Development\VentureSketch\VentureSketch\bin\NWebsec.Core.xml
+G:\Development\VentureSketch\VentureSketch\bin\NWebsec.Mvc.xml
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.Helpers.xml
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.Mvc.xml
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.Razor.xml
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.WebPages.xml
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.WebPages.Deployment.xml
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.WebPages.Razor.xml
+G:\Development\VentureSketch\VentureSketch\bin\System.Web.Optimization.xml
+G:\Development\VentureSketch\VentureSketch\bin\Dapper.pdb
+G:\Development\VentureSketch\VentureSketch\bin\Dapper.xml
+G:\Development\VentureSketch\VentureSketch\obj\Debug\VentureSketch.csprojResolveAssemblyReference.cache
+G:\Development\VentureSketch\VentureSketch\obj\Debug\VentureSketch.dll
+G:\Development\VentureSketch\VentureSketch\obj\Debug\VentureSketch.pdb

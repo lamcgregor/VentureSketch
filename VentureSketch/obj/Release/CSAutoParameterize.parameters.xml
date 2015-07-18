@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="VentureSketchConnectionString-Web.config Connection String" description="VentureSketchConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=sql9.hostinguk.net;Initial Catalog=VentureSketch;Persist Security Info=True;User ID=guideske;Password=d0v1w2s3t4n5" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\batalay\\documents\\visual\ studio\ 2012\\Projects\\VentureSketch\\VentureSketch\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='VentureSketchConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

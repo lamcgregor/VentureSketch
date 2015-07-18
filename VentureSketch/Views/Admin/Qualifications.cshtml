@@ -1,0 +1,54 @@
+﻿@using System.Collections;
+@using VentureSketch.Data;
+@model List<Qualification>
+@{
+    ViewBag.Title = "VentureSketch Qualifications Admin Page";
+    ViewBag.Description = "Add/Remove/Edit Qualifications Here";
+}
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th colspan="5">
+                <h1 class="text-center">Manage Qualifications</h1>
+            </th>
+        </tr>
+        <tr>
+            <th>ID</th>
+            <th>Rank</th>
+            <th>Name</th>
+            <th>Notes</th>
+            <th>ActivityType</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            Qualification qualification = Model[i];
+            int id = qualification.Id;
+            <tr id="qualification_@id">
+                <td>@qualification.Id</td>
+                <td>
+                    @{string rank = qualification.Rank.HasValue ? @qualification.Rank.ToString() : "N/A";}
+                    @rank
+                </td>
+                <td>@qualification.Name</td>
+                <td>@qualification.Notes</td>
+                <td>@qualification.ActivityTypeId</td>
+                <td>
+                    @Ajax.ActionLink(
+                        "Edit",
+                        "EditQualification",
+                        new { id = id },
+                        new AjaxOptions
+                        {
+                            UpdateTargetId = String.Format("qualification_{0}", id),
+                            InsertionMode = InsertionMode.Replace,
+                            HttpMethod = "Get"
+                        })
+                </td>
+            </tr>
+        }
+        <div id="ql"></div>
+    </tbody>
+</table>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="venturesketch.guidesketch.com" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\batalay\\documents\\visual\ studio\ 2012\\Projects\\VentureSketch\\VentureSketch\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\batalay\\documents\\visual\ studio\ 2012\\Projects\\VentureSketch\\VentureSketch\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

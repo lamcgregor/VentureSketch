@@ -1,0 +1,15 @@
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\VentureSketch.Tests.dll.config
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\VentureSketch.Tests.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\VentureSketch.Tests.pdb
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\nunit.framework.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\VentureSketch.Data.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\VentureSketch.Models.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\Dapper.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\VentureSketch.Data.pdb
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\VentureSketch.Models.pdb
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\nunit.framework.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\Dapper.pdb
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\bin\Debug\Dapper.xml
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\obj\Debug\VentureSketch.Tests.csprojResolveAssemblyReference.cache
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\obj\Debug\VentureSketch.Tests.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Tests\obj\Debug\VentureSketch.Tests.pdb

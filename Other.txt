@@ -1,0 +1,15 @@
+USE VentureSketch
+GO 
+    DECLARE @field1 nvarchar(400)
+    DECLARE cur CURSOR LOCAL for
+
+    SELECT TABLE_NAME FROM information_schema.tables
+    OPEN cur
+    FETCH NEXT FROM cur INTO @field1 --, @field2
+    WHILE @@FETCH_STATUS = 0 BEGIN          
+        exec Helper_CreatePocoFromTableName @field1 -- , @field2            
+        fetch next from cur into @field1 -- , @field2
+    END
+
+close cur
+deallocate cur

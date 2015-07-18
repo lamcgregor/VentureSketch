@@ -1,0 +1,13 @@
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\bin\Release\VentureSketch.Data.dll.config
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\bin\Release\VentureSketch.Data.dll
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\bin\Release\VentureSketch.Data.pdb
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\bin\Release\Dapper.dll
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\bin\Release\RepositoryWrapper.Dapper.dll
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\bin\Release\RepositoryWrapper.dll
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\bin\Release\VentureSketch.Models.dll
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\bin\Release\VentureSketch.Models.pdb
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\bin\Release\Dapper.pdb
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\bin\Release\Dapper.xml
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\obj\Release\VentureSketch.Data.csprojResolveAssemblyReference.cache
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\obj\Release\VentureSketch.Data.dll
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Data\obj\Release\VentureSketch.Data.pdb

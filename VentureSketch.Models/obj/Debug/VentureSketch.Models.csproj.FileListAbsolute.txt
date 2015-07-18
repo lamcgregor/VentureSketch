@@ -1,0 +1,5 @@
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Models\bin\Debug\VentureSketch.Models.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Models\bin\Debug\VentureSketch.Models.pdb
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Models\obj\Debug\VentureSketch.Models.csprojResolveAssemblyReference.cache
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Models\obj\Debug\VentureSketch.Models.dll
+C:\Users\batalay\documents\visual studio 2012\Projects\VentureSketch\VentureSketch.Models\obj\Debug\VentureSketch.Models.pdb

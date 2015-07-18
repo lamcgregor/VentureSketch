@@ -1,0 +1,5 @@
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Models\bin\Release\VentureSketch.Models.dll
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Models\bin\Release\VentureSketch.Models.pdb
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Models\obj\Release\VentureSketch.Models.dll
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Models\obj\Release\VentureSketch.Models.pdb
+C:\Users\batalay\Documents\Visual Studio 2012\Projects\VentureSketch\VentureSketch.Models\obj\Release\VentureSketch.Models.csprojResolveAssemblyReference.cache
